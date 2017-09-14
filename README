@@ -1,0 +1,5 @@
+npm init
+
+npm install -S webpack
+
+NODE_ENV=production webpack
