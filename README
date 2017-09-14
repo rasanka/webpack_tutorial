@@ -2,4 +2,8 @@ npm init
 
 npm install -S webpack
 
+// To run in production mode
 NODE_ENV=production webpack
+
+// To run in Debug mode
+webpack
